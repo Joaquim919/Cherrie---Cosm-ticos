@@ -184,7 +184,7 @@ body {
 
 /* Seção Hero */
 .hero {
-    background-image: url('assets/hero.png');
+    background-image: url('assets/capa.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
